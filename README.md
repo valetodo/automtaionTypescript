@@ -1,0 +1,2 @@
+# automtaionTypescript
+proyecto de automatizacion
