@@ -1,0 +1,24 @@
+Assignment:
+1- Create a code to validate if a text is palindrome example:
+Input:
+text = ‘ANA LAVA LANA’
+Output:
+‘True’
+
+Create the unit test considering the expected inputs, and the possible errors
+
+2- Create a code that returns the highest number of an array
+Input:
+array= [2, 88, 65, 17, 95, 39]
+Output:
+95
+
+Create the unit test considering the expected inputs, and the possible errors
+
+3- Create a code that returns an Array of strings with input string
+Input:
+text= ‘Hello’
+Output:
+[H, e, l, l, o]
+
+Create the unit test considering the expected inputs, and the possible errors
