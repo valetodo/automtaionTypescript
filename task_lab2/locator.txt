@@ -1,0 +1,10 @@
+	1. a[href='/es-es/']
+	2. //nav[@class="_mainMenu_5rlvr wt-col-inline"]//button[text()="Para equipos"]
+	3. //a[contains(@aria-label, 'Ir a la tienda')]
+	4. //div[@id='js-menu-second']//a[text()='Descargar']
+	5. //h3[contains(text(),"Сolaboración")]/parent::a
+	6. //a[text()='IntelliJ Profiler']
+	7. //div[@class='wt-offset-top-32 comparison-card__button']//button
+	8. //div[@class='comparison-card__button']//a
+	9. //a[text()='Comparar ediciones']
+    10. //form//span[@class='wt-privacy-notice__message']/following-sibling::*
